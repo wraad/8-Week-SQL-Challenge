@@ -1,4 +1,4 @@
-use [z-SQL_Training_Movies_WR]
+use [z-SQL_Training_WR]
 go
 /* --------------------
    Case Study Questions
