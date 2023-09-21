@@ -1,2 +1,2 @@
 # 8-Week-SQL-Challenge
-Putting my sql skills into test by doing danny's 8 diiferent cases challenger, which is a challenge created by Danny who is a data analyst guru to help us take our sql skills to the next level
+Putting my SQL skills into test by doing one of danny's 8 case challenge, which is a challenge created by Danny who is a data analyst guru that help people take there SQL skills to the next level
